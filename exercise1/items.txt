@@ -1,24 +1,8 @@
 -------------
 Item ID :1
 Item Name :Apple
-Item Price :20
+Item Price :34
 -------------
 Item ID :2
-Item Name :Mango
-Item Price :35
--------------
-Item ID :3
-Item Name :Banana
-Item Price :50
--------------
-Item ID :4
 Item Name :Grapes
-Item Price :45
--------------
-Item ID :6
-Item Name :Guava
-Item Price :80
--------------
-Item ID :7
-Item Name :asjdlka
-Item Price :123
+Item Price :23
